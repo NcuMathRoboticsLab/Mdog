@@ -1,0 +1,3 @@
+[submodule "Basic - Runtime/NCU_Mdog"]
+	path = Basic - Runtime/NCU_Mdog
+	url = https://github.com/NcuMathRoboticsLab/NCU_Mdog.git
